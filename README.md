@@ -41,4 +41,4 @@ Overview Page:
 
 Visualization Page:
 
-Provides customizable charts visual analysis of your dataset.
+- Provides customizable charts visual analysis of your dataset.
