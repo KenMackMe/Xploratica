@@ -49,3 +49,7 @@ Some ideas for future updates:
 - Add more visualization options (heatmaps, scatter plots, etc.)  
 - Provide data filtering options to refine analysis  
 - Improve data upload options to support more file formats
+
+## License  
+
+Streamly is released under the [MIT License](LICENSE). See the LICENSE file for more details.
