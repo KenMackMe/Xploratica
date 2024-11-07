@@ -8,7 +8,7 @@ Key Features:
 - Visualizations: Dive into interactive visualizations to uncover patterns and trends.
 
 ## Table of Contents
-- [Installation](#installation)
+- [Key features](#key)
 - [Usage](#usage)
 - [Features](#features)
 - [File Structure](#file-structure)
