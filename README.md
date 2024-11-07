@@ -19,7 +19,7 @@ Xploratica is an intuitive, user-friendly app designed for exploring and analyzi
 To run Xploratica locally, follow these steps:
 
 1. Clone the Repository
-```
+```rb
 git clone https://github.com/KenMackMe/Xploratica.git
 cd Xploratica
 ```
