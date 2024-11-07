@@ -7,14 +7,6 @@ Xploratica is an intuitive, user-friendly app designed for exploring and analyzi
 - Overview: Get a summary overview of your data, including key metrics and structural insights.
 - Visualizations: Dive into interactive visualizations to uncover patterns and trends.
 
-## Table of Contents
-- [Key features](#key)
-- [Usage](#usage)
-- [Features](#features)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation  
 To run Xploratica locally, follow these steps:
 
@@ -36,3 +28,17 @@ pip install -r requirements.txt
 streamlit run Xploratica.py
 ```
 
+## Pages Overview  
+Upload Page
+
+- Allows you to upload CSV files for analysis.  
+
+- Prepares data for further exploration
+
+Overview Page:
+
+- Shows a summary of your dataset, including descriptive statistics.  
+
+Visualization Page:
+
+Provides customizable charts visual analysis of your dataset.
