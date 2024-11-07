@@ -29,16 +29,16 @@ streamlit run Xploratica.py
 ```
 
 ## Pages Overview  
-Upload Page
+1. Upload Page
 
 - Allows you to upload CSV files for analysis.  
 
 - Prepares data for further exploration
 
-Overview Page:
+2. Overview Page:
 
 - Shows a summary of your dataset, including descriptive statistics.  
 
-Visualization Page:
+3. Visualization Page:
 
 - Provides customizable charts visual analysis of your dataset.
