@@ -18,11 +18,11 @@ Key Features:
 Installation
 To run Xploratica locally, follow these steps:
 
-- 1. Clone the Repository:
-`
+- 1. Clone the Repository
+```
 git clone https://github.com/KenMackMe/Xploratica.git
 cd Xploratica
-`
+```
   
 - 2. Install Required Libraries
 Use the following command to install the dependencies:
