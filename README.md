@@ -42,3 +42,12 @@ Overview Page
 Visualization Page
 
 - Provides customizable charts visual analysis of your dataset.
+
+## Future Enhancements
+Some ideas for future updates:
+
+Add more visualization options (heatmaps, scatter plots, etc.)  
+
+Provide data filtering options to refine analysis  
+
+Improve data upload options to support more file formats
