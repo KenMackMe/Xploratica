@@ -3,6 +3,6 @@ Xploratica is an intuitive, user-friendly app designed for exploring and analyzi
 
 Key Features:
 
-**Data Upload: Upload any dataset directly to start exploring.
-**Overview: Get a summary overview of your data, including key metrics and structural insights.
+- **Data Upload: Upload any dataset directly to start exploring.
+- **Overview: Get a summary overview of your data, including key metrics and structural insights.
 Visualizations: Dive into interactive visualizations to uncover patterns and trends.
