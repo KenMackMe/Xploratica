@@ -35,10 +35,10 @@ Upload Page
 
 - Prepares data for further exploration
 
-2. Overview Page:
+Overview Page
 
 - Shows a summary of your dataset, including descriptive statistics.  
 
-3. Visualization Page:
+Visualization Page
 
 - Provides customizable charts visual analysis of your dataset.
