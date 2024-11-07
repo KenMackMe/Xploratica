@@ -6,3 +6,11 @@ Key Features:
 - Data Upload: Upload any dataset directly to start exploring.
 - Overview: Get a summary overview of your data, including key metrics and structural insights.
 - Visualizations: Dive into interactive visualizations to uncover patterns and trends.
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [File Structure](#file-structure)
+- [Contributing](#contributing)
+- [License](#license)
