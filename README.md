@@ -18,21 +18,18 @@ Key Features:
 Installation
 To run Xploratica locally, follow these steps:
 
-Clone the Repository:
-
-bash
-Copy code
-\```git clone https://github.com/KenMackMe/Xploratica.git
+- 1. Clone the Repository:
+`
+git clone https://github.com/KenMackMe/Xploratica.git
 cd Xploratica
-\```
-Install Required Libraries: Use the following command to install the dependencies:
+`
+  
+- 2. Install Required Libraries
+Use the following command to install the dependencies:
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the App: Start the Streamlit app using:
+`pip install -r requirements.txt`
 
-bash
-Copy code
-streamlit run Xploratica.py
+- 3. Run the App: Start the Streamlit app using:
+
+`streamlit run Xploratica.py`
 
