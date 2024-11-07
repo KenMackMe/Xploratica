@@ -26,8 +26,6 @@ cd Xploratica
   
 2. Install Required Libraries
 
-Use the following command to install the dependencies
-
 `pip install -r requirements.txt`
 
 3. Run the Streamlit app using
