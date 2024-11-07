@@ -26,9 +26,13 @@ cd Xploratica
   
 2. Install Required Libraries
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 3. Run the Streamlit app using
 
-```streamlit run Xploratica.py```
+```
+streamlit run Xploratica.py
+```
 
